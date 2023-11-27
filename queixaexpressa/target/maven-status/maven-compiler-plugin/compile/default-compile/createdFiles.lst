@@ -1,0 +1,4 @@
+br\com\beatrizsinesio\queixaexpressa\Repository\ClienteRepository.class
+br\com\beatrizsinesio\queixaexpressa\model\Cliente.class
+br\com\beatrizsinesio\queixaexpressa\QueixaexpressaApplication.class
+br\com\beatrizsinesio\queixaexpressa\controller\ClienteController.class
